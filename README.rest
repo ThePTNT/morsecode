@@ -1,0 +1,15 @@
+
+==================
+morse code library
+==================
+
+This is a C# library allowing you to output morse code to a console (printing and the beep character).
+
+
+=====
+usage
+=====
+
+Import by adding the DLL file (Dynamic Link Library) to your refrences (Visual Studio), then simply add ``using MorseCode`` to the beginning of your file.
+
+To play a string, use ``Morse.Play(string);``.
