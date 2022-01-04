@@ -18,6 +18,7 @@ This function writes to the console when called. It does not return anything.
 To convert english to morse code, use ``Morse.ToMorse(string);``
 To convert morse code to english, use ``Morse.ToEng(string);``
 These 2 functions return values that are the converted versions. If you encounter an error, it will return the error message.
+For these 2 functions, for the parameter string, you have to type in 1 character from english or morse code, depending on which function you choose.
 
 There is also 2 dictionaries that you can use!
 ``Morse.CharsToMorse`` & ``Morse.CharsToEng``.
