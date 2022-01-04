@@ -13,8 +13,11 @@ usage
 Import by adding the DLL file (Dynamic Link Library) to your references (Visual Studio), then simply add ``using MorseCode;`` to the beginning of your file.
 
 To play a string, use ``Morse.Play(string);``.
+This function writes to the console when called. It does not return anything.
+
 To convert english to morse code, use ``Morse.ToMorse(string);``
 To convert morse code to english, use ``Morse.ToEng(string);``
+These 2 functions return values that are the converted versions. If you encounter an error, it will return the error message.
 
 There is also 2 dictionaries that you can use!
 ``Morse.CharsToMorse`` & ``Morse.CharsToEng``.
