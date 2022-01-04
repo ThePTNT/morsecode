@@ -15,3 +15,7 @@ Import by adding the DLL file (Dynamic Link Library) to your references (Visual 
 To play a string, use ``Morse.Play(string);``.
 To convert english to morse code, use ``Morse.ToMorse(string);``
 To convert morse code to english, use ``Morse.ToEng(string);``
+
+There is also 2 dictionaries that you can use!
+``Morse.CharsToMorse`` & ``Morse.CharsToEng``.
+I hope you enjoy this library!
