@@ -26,3 +26,8 @@ I hope you enjoy this library!
 
 IMPORTANT NOTES:
 When translating to english from morse code, a space is defined with a forward slash, like this ``/``.
+Also separate different morse code characters with a space.
+
+==================
+THANK YOU FOR USING OUR LIBRARY!
+==================
