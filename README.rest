@@ -23,3 +23,6 @@ For these 2 functions, for the parameter string, you have to type in 1 character
 There is also 2 dictionaries that you can use!
 ``Morse.CharsToMorse`` & ``Morse.CharsToEng``.
 I hope you enjoy this library!
+
+IMPORTANT NOTES:
+When translating to english from morse code, a space is defined with a forward slash, like this ``/``.
